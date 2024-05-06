@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingaimaster94
+- 👋 Hi, I’m kingaimaster94
 - 👀 I’m interested in blockchain and AI development.
 - 🌱 I’m currently learning new blockchain and deep learning.
 - 💞️ I’m looking to collaborate on other team members.
